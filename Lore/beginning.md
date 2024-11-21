@@ -20,16 +20,17 @@ The fourth, and final one, we'll call the **Lady of Metal**. She will be the god
 Her name is <ins>**Y'hita**</ins>.
 
 ---
+
 ## The Creation
 Now; within this something, the world was made.
 
-**Maht** formed the earth. He molded the land and water into the shapes that exist today. And within this world, he formed the first vessels.
+**Maht** formed the earth. He molded the land and water into the shapes that exist today. And within and from the materials of the world, he formed the first vessels.
 
-**Kuolev** gave life to these vessels. He breathed life into them. He created the first animals, plants, and animals.
+**Kuolev** then breathed life into the vessels. He created the first animals, plants, and humans from them.
 
-**T'unn** took these now living beings, and gave them a mind. These beings then roamed. They dispersed themselves around the world.
+**T'unn** took these now living beings, and gave them a mind. These beings then began to roamed. They dispersed themselves everywhere, roaming without interest or purpose.
 
-**Y'hita** then gave them a reason. She gave them their purpose. Plants would grow, and spread, and die, and grow again. Animals would eat these plants, and grow, and spread, and be eaten, and die.
+But **Y'hita**, she gave them a reason. She gave them their purpose, *the* purpose. Plants would grow, and spread, and die, and grow again. Animals would eat these plants, and grow, and spread, and be eaten, and die.
 
-But humans; humans would be given a true, and ultimate purpose. To dominate the lands, the animals, and the plants; and devote their lives to the gods, the **Four Lords**,
+But humans; humans would be given a true, and ultimate purpose. To dominate the lands, the animals, and the plants; and devote their lives to the gods, the **Four Lords**.
 
