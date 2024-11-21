@@ -1,4 +1,5 @@
-In the beginning, there was nothing; and then, there was something.
+## In the Beginning...
+...there was nothing; and then, there was something.
 
 Four gods, there were four gods. Let's call them the **Four Lords**.
 
@@ -18,6 +19,8 @@ The fourth, and final one, we'll call the **Lady of Metal**. She will be the god
 
 She gives others a purpose, a purpose in their life. Her name is **Y'hita**.
 
+---
+## The Creation
 Now; within this something, the world was made.
 
 **Maht** formed the earth. He molded the land and water into the shapes that exist today.
