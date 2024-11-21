@@ -23,23 +23,13 @@ She gives others a purpose, a purpose in their life. Her name is **Y'hita**.
 ## The Creation
 Now; within this something, the world was made.
 
-**Maht** formed the earth. He molded the land and water into the shapes that exist today.
+**Maht** formed the earth. He molded the land and water into the shapes that exist today. And within this world, he formed the first vessels.
 
-And within this world, he formed the first vessels.
+**Kuolev** gave life to these vessels. He breathed life into them. He created the first animals, plants, and animals.
 
-**Kuolev** gave life to these vessels. He breathed life into them.
+**T'unn** took these now living beings, and gave them a mind. These beings then roamed. They dispersed themselves around the world.
 
-He created the first animals, plants, and animals.
+**Y'hita** then gave them a reason. She gave them their purpose. Plants would grow, and spread, and die, and grow again. Animals would eat these plants, and grow, and spread, and be eaten, and die.
 
-**T'unn** took these now living beings, and gave them a mind.
-
-These beings then roamed. They dispersed themselves around the world.
-
-**Y'hita** then gave them a reason. She gave them their purpose.
-
-Plants would grow, and spread, and die, and grow again.
-
-Animals would eat these plants, and grow, and spread, and be eaten, and die.
-
-Humans would be given a true, and ultimate purpose. To dominate the lands, the animals, and the plants; and devote their lives to them, the **Four Lords**,
+But humans; humans would be given a true, and ultimate purpose. To dominate the lands, the animals, and the plants; and devote their lives to the gods, the **Four Lords**,
 
