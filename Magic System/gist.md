@@ -19,6 +19,6 @@ Prayer would consist of interacting with and then crouching or sitting by an alt
 
 There would be an altar and statue for each god. Statues are made by placing two hardened stone types in a pillar, and then interacting with them with a chisel in the mainhand, and a gem (corresponding to the god you are making the statue of) in the offhand.
 
-Then, by interacting with a statue, you would then start a timer of 60s. By sitting or crouching near the statue, the timer will deplete. When the timer reaches 0, your *Arcana* will be fully replenished and you will recieve a blessing corresponding to the god you prayed to.
+Then, by interacting with a statue, you would then start a timer of 60s. By sitting or crouching near the statue, the timer will deplete. When the timer reaches 0, your *Arcana* will be fully replenished and you will recieve a blessing corresponding to the god you prayed to. Cooldown between prayers is 10min.
 
 
