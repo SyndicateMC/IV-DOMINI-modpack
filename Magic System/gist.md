@@ -10,8 +10,15 @@ There will be no spell leveling, only greater versions of spells (ie. a Gust spe
 
 Spell Scrolls have been converted into *Spell Runes*, stone slates with a symbol etched into them to discern the school. Spellbooks have been converted into *Spell Tablets*, stone slates with gems embedded in them.
 
-Mana will be renamed to *Arcana*. Capacity of *Arcana* will be reduced to a base max of 10. *Arcana* will be gained through prayer and other things instead of it just regenerating passively.
+Mana will be renamed to *Arcana*. Capacity of *Arcana* will be reduced to a base max of 10. *Arcana* will be gained through prayer and other things instead of it just regenerating passively. Spells will use a small amount of *Arcana*.
 
 Spells will be obtained through rituals.
 
-## 
+## Prayer
+Prayer would consist of interacting with and then crouching or sitting by an altar or statue.
+
+There would be an altar and statue for each god. Statues are made by placing two hardened stone types in a pillar, and then interacting with them with a chisel in the mainhand, and a gem (corresponding to the god you are making the statue of) in the offhand.
+
+Then, by interacting with a statue, you would then start a timer of 60s. By sitting or crouching near the statue, the timer will deplete. When the timer reaches 0, your *Arcana* will be fully replenished and you will recieve a blessing corresponding to the god you prayed to.
+
+
