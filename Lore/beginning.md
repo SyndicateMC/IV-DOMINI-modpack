@@ -15,7 +15,7 @@ The third one, we'll call the **Lord of Clay**. He will be the god of the mind. 
 
 His name is <ins>**T'unn**</ins>.
 
-The fourth, and final one, we'll call the **Lady of Metal**. She will be the goddess of order. She will determine what things are able to do. She gives others a purpose, a purpose in their life. 
+The fourth, and final one, we'll call the **Lady of Metal**. She will be the goddess of order. She will determine what things are able to do. She gives others a purpose; she influences them, and nudges them to a greater goal.
 
 Her name is <ins>**Y'hita**</ins>.
 
