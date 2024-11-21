@@ -1,23 +1,23 @@
 ## In the Beginning...
 ...there was nothing; and then, there was something.
 
-Four gods, there were four gods. Let's call them the **Four Lords**.
+Four gods, there were four gods. Let's call them the <ins>**Four Lords**</ins>.
 
-The first one, we'll call the **Lord of Stone**. He will be the god of physicality. He will determine damage, and the physical state of something. 
+The first one, we'll call the **Lord of Stone**. He will be the god of physicality. He will determine damage, and the physical state of something. He gives others a body, a body to be used as a shell for what is to come. 
 
-He gives others a body, a body to be used as a shell for what is to come. His name is **Maht**.
+His name is <ins>**Maht**</ins>.
 
-The second one, we'll call the **Lord of Salt**. He will be the god of life, and of death. He will determine who, and what is alive, and who is not. 
+The second one, we'll call the **Lord of Salt**. He will be the god of life, and of death. He will determine who, and what is alive, and who is not. He gives others a life, a life to be lived. 
 
-He gives others a life, a life to be lived. His name is **Kuolev**.
+His name is <ins>**Kuolev**</ins>.
 
-The third one, we'll call the **Lord of Clay**. He will be the god of the mind. He will determine the ability of others to think, feel, and act. 
+The third one, we'll call the **Lord of Clay**. He will be the god of the mind. He will determine the ability of others to think, feel, and act. He gives others a mind, a mind to be molded by experience. 
 
-He gives others a mind, a mind to be molded by experience. His name is **T'unn**.
+His name is <ins>**T'unn**</ins>.
 
-The fourth, and final one, we'll call the **Lady of Metal**. She will be the goddess of order. She will determine what things are able to do. 
+The fourth, and final one, we'll call the **Lady of Metal**. She will be the goddess of order. She will determine what things are able to do. She gives others a purpose, a purpose in their life. 
 
-She gives others a purpose, a purpose in their life. Her name is **Y'hita**.
+Her name is <ins>**Y'hita**</ins>.
 
 ---
 ## The Creation
