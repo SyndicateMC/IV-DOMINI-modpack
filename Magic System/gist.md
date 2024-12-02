@@ -27,3 +27,5 @@ Consistently praying to a certain god without praying to another will garner fav
 Rituals are preformed at altars.
 
 By throwing certain materials on an altar, and then interacting with it, you can preform a ritual. 
+
+Spells are obtained through rituals. You would first need to craft a few Blank Slates, these are made by putting three stone (types) and a chisle in a crafting interface. You would then put the slate on the altar, and with the addition of other items, would imbue the slate with magic, giving you a Spell Rune.
