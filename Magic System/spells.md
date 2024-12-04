@@ -8,7 +8,7 @@ Terms to note:
 ## Physical
 Physical spells usually have to do with physically effecting terrain or forming physical barriers.
 
-**Stomp:**
+<details><summary><b>Stomp:</b></summary>
 ```
 Stats:
 - long cast
@@ -20,6 +20,7 @@ Info:
 - Functions similarly to the stomp spell in base ISS.
 - Does 5DMG.
 ```
+</details>
 
 ## Deathly
 Deathly spells usually have to do with direct damage or direct healing.
