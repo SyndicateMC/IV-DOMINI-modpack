@@ -9,6 +9,7 @@ Terms to note:
 Physical spells usually have to do with physically effecting terrain or forming physical barriers.
 
 <details><summary><b>Stomp:</b></summary>
+
 ```
 Stats:
 - long cast
