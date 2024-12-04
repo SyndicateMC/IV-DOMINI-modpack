@@ -8,7 +8,7 @@ Terms to note:
 ## Physical
 Physical spells usually have to do with physically effecting terrain or forming physical barriers.
 
-<details><summary><b>Stomp:</b></summary>
+<details><summary><b><ins>Stomp</ins></b></summary>
 
 ```
 Stats:
