@@ -1,4 +1,4 @@
-## How does it work?
+# How does it work?
 The magic system would center around the <ins>**Four Lords**</ins>, a school, or type of magic for each god. There will be rituals, praying, spellcasting, and other stuff.
 
 The four magics will be *Physical*, *Deathly*, *Emotional*, *Orderly*.
