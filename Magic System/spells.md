@@ -4,6 +4,16 @@ This file just contains ideas for spells that I want to add to the modpack. They
 Terms to note:
 - DMG: normal damage.
 - M-DMG: magic damage, pierces armor.
+- HP: health, health points.
+
+Additional notes:
+- The spell rarity system has been changed:
+  - **Common -> Common**
+  - **Uncommon -> Rare**
+  - **Rare -> Epic**
+  - **Legendary -> Epic**
+  - **Legendary -> Flawless**
+- Again, no spell leveling.
 
 ## Physical
 Physical spells usually have to do with physically effecting terrain, forming physical barriers, or direct contact with something. Can also be associated with summoning storms and such.
@@ -20,7 +30,7 @@ Stats:
 
 Info:
 - Functions similarly to the stomp spell in base ISS.
-- Does 5DMG.
+- Does 8DMG.
 ```
 </details>
 
@@ -38,7 +48,7 @@ Stats:
 - common
 
 Info:
-- Heals the player for 5 health.
+- Heals the player for 6HP.
 - Gives off little green particles when cast.
 ```
 </details>
@@ -55,8 +65,24 @@ Stats:
 Info:
 - Gives the player five charges to cast.
 - When a charge is consumed, heal the closest entity that is within 7 blocks in front of you.
-- Heals for 2 health.
+- Heals for 3HP.
 - Gives off little green particles that shoot out in the direction it was cast.
+```
+</details>
+
+<details><summary><b><ins>Bolt of Hurting</ins></b></summary>
+
+```
+Stats:
+- instant cast
+- 30s cooldown
+- 1 arcana cost
+- common
+
+Info:
+- Fires off a magic bolt that flies at a similar tragectory as an arrow.
+- Deals 6DMG on contact with an entity.
+- Dissapates on contact with a surface or an entity.
 ```
 </details>
 
@@ -65,3 +91,20 @@ Emotional spells usually have to do with support. Like applying a buff to a frie
 
 ## Orderly
 Orderly spells usually have to do with some sort of imbuement, or maybe telekinesis.
+
+<details><summary><b><ins>Tether</ins></b></summary>
+
+```
+Stats:
+- long cast
+- 2s cast time
+- 1m cooldown
+- 8 arcana cost
+- legendary
+
+Info:
+- Cannot be cast without a target entity.
+- Gives the caster and the target the effect "Tethered".
+- Tethered entities will share any damage they recieve.
+```
+</details>
