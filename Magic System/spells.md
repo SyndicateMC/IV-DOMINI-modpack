@@ -45,8 +45,8 @@ Stats:
 
 Info:
 - Adds downwards velocity to the caster.
-- Gives the caster the Heavy effect for 10s.
-  - Entities with the Heavy effect are given increased gravity, an inability to move, and are immune to damage.
+- Gives the caster the Petrified effect for 10s.
+  - Entities with the Petrified effect are given increased gravity, an inability to move, and are immune to damage.
   - Any fall damage that would be taken is applied to all entities in a 1.5 block radius around the effected entity.
 ```
 </details>
