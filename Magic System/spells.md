@@ -8,11 +8,11 @@ Terms to note:
 
 Additional notes:
 - The spell rarity system has been changed:
-  - **Common -> Common**
-  - **Uncommon -> Rare**
-  - **Rare -> Epic**
-  - **Legendary -> Epic**
-  - **Legendary -> Flawless**
+  - **Common → Common**
+  - **Uncommon → Rare**
+  - **Rare → Epic**
+  - **Legendary → Epic**
+  - **Legendary → Flawless**
 - Again, no spell leveling.
 
 ## Physical
