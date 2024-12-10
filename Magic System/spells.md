@@ -34,7 +34,7 @@ Info:
 ```
 </details>
 
-<details><summary><b><ins>Slam</ins></b></summary>
+<details><summary><b><ins>Petrification</ins></b></summary>
 
 ```
 Stats:
@@ -46,8 +46,8 @@ Stats:
 Info:
 - Adds downwards velocity to the caster.
 - Gives the caster the Heavy effect for 10s.
-  - Entities with the Heavy effect are given increased gravity and cannot take fall damage.
-  - Any fall damage that would be taken is applied to all entities in a 1.5 block radius.
+  - Entities with the Heavy effect are given increased gravity, an inability to move, and are immune to damage.
+  - Any fall damage that would be taken is applied to all entities in a 1.5 block radius around the effected entity.
 ```
 </details>
 
@@ -101,6 +101,7 @@ Info:
 - Fires off a magic bolt that flies at a similar tragectory as an arrow.
 - Deals 6DMG on contact with an entity.
 - Dissapates on contact with a surface or an entity.
+- Projectile is effected by Guiding.
 ```
 </details>
 
@@ -122,6 +123,24 @@ Info:
 - If targeting an entity, give the entity the Strength (II) effect.
 ```
 </details>
+
+<details><summary><b><ins>Snap</ins></b></summary>
+
+```
+Stats:
+- instant cast
+- 30s cooldown
+- 2 arcana cost
+- rare
+
+Info:
+- Casts a hitscan shot that does no damage and has a 30 block range and is blocked by terrain and entities.
+- On hit with an entity:
+  - Apply Weakness (I), Slowness (I), and Guiding to the entity.
+  
+```
+</details>
+
 
 ## Orderly
 Orderly spells usually have to do with some sort of imbuement, or maybe telekinesis. In the same vein as **Physical** magic, or complementary in a way.
@@ -154,7 +173,7 @@ Stats:
 Info:
 - Cannot be cast without a target entity.
 - Adds a bunch of velocity to the entity the caster is targeting, sending them in the direction the caster is facing.
-- Makes the target entity able to be effected by kinetic damage.
+- Makes the target entity able to be effected by kinetic damage (for 10s).
   - There's an effect in base ISS that does that. I forget what it is called.
 ```
 </details>
