@@ -5,6 +5,7 @@ Terms to note:
 - DMG: normal damage.
 - M-DMG: magic damage, pierces armor.
 - HP: health, health points.
+- ISS: no, not International Space Station; Iron's Spells & Spellbooks
 
 Additional notes:
 - The spell rarity system has been changed:
@@ -16,7 +17,7 @@ Additional notes:
 - Again, no spell leveling.
 
 ## Physical
-Physical spells usually have to do with effecting a physical action of the player (ie. a stomp, punch, swipe?), physically effecting terrain, forming physical barriers, or direct contact with something. Can also be associated with summoning storms and such.
+Physical spells usually have to do with affecting a physical action of the player (ie. a stomp, punch, swipe/slash?), physically affecting terrain, forming physical barriers, or direct contact with something. Can also be associated with summoning storms and such.
 
 <details><summary><b><ins>Stomp</ins></b></summary>
 
@@ -34,6 +35,22 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Greater Stomp</ins></b></summary>
+
+```
+Stats:
+- long cast
+- 0.6s cast time
+- 12s cooldown
+- 5 arcana cost
+- rare
+
+Info:
+- Functions similarly to the (lesser) Stomp spell, just with a greater cone of effect (hitbox).
+- Does 12DMG.
+```
+</details>
+
 <details><summary><b><ins>Petrification</ins></b></summary>
 
 ```
@@ -47,15 +64,45 @@ Info:
 - Adds downwards velocity to the caster.
 - Gives the caster the Petrified effect for 10s.
   - Entities with the Petrified effect are given increased gravity, an inability to move, and are immune to damage.
-  - Any fall damage that would be taken is applied to all entities in a 1.5 block radius around the effected entity.
+  - Any fall damage that would be taken while under the effect is applied to all entities in a 1.5 block radius around the affected entity.
 ```
 </details>
 
+<details><summary><b><ins>Slash</ins></b></summary>
+
+```
+Stats:
+- instant cast
+- 5s cooldown
+- 1 arcana cost
+- common
+
+Info:
+- Functions similarly to the Blood Slash spell from base ISS.
+- Does 4DMG + the damage attribute of the item you are currently holding.
+```
+</details>
+
+<details><summary><b><ins>Greater Slash</ins></b></summary>
+
+```
+Stats:
+- long cast
+- 0.2 cast time
+- 10s cooldown
+- 3 arcana cost
+- epic
+
+Info:
+- Is identical to the (lesser) Slash spell just with a greater area of effect (hitbox).
+- Does 6DMG + (1.5x) the damage attribute of the item you are currently holding.
+```
+</details>
 
 ## Deathly
 Deathly spells usually have to do with direct damage or direct healing. Can also be associated with summoning things to fight for you.
 
-<details><summary><b><ins>Heal</ins></b></summary>
+<details><summary><b><ins>Healing</ins></b></summary>
 
 ```
 Stats:
@@ -66,29 +113,13 @@ Stats:
 - common
 
 Info:
-- Heals the player for 6HP.
+- Heals the caster for 6HP.
+- If targeting an entity, heal the entity for 8HP instead. 
 - Gives off little green particles when cast.
 ```
 </details>
 
-<details><summary><b><ins>Healing Hands</ins></b></summary>
-
-```
-Stats:
-- instant cast
-- 30s cooldown
-- 3 arcana cost
-- rare
-
-Info:
-- Gives the player five charges to cast.
-- When a charge is consumed, heal the closest entity that is within 7 blocks in front of you.
-- Heals for 3HP.
-- Gives off little green particles that shoot out in the direction it was cast.
-```
-</details>
-
-<details><summary><b><ins>Bolt of Hurting</ins></b></summary>
+<details><summary><b><ins>Hurting</ins></b></summary>
 
 ```
 Stats:
@@ -101,7 +132,7 @@ Info:
 - Fires off a magic bolt that flies at a similar tragectory as an arrow.
 - Deals 6DMG on contact with an entity.
 - Dissapates on contact with a surface or an entity.
-- Projectile is effected by Guiding.
+- Is affected by Guiding.
 ```
 </details>
 
@@ -120,7 +151,7 @@ Stats:
 
 Info:
 - Gives the caster the Strength (I) effect for 20s.
-- If targeting an entity, give the entity the Strength (II) effect.
+- If targeting an entity, give the entity the Strength (II) effect for 20s instead.
 ```
 </details>
 
@@ -136,14 +167,29 @@ Stats:
 Info:
 - Casts a hitscan shot that does no damage and has a 30 block range and is blocked by terrain and entities.
 - On hit with an entity:
-  - Apply Weakness (I), Slowness (I), and Guiding to the entity.
-  
+  - Apply Weakness (I), Slowness (I), and Guiding to the entity for 15s.
+```
+</details>
+
+<details><summary><b><ins>Greater Snap</ins></b></summary>
+
+```
+Stats:
+- instant cast
+- 30s cooldown
+- 5 arcana cost
+- epic
+
+Info:
+- Casts a hitscan shot that does no damage and has a 45 block range and is blocked by terrain and entities.
+- On hit with an entity:
+  - Apply Weakness (II), Slowness (I), Blindness, and Guiding to the entity for 15s.
 ```
 </details>
 
 
 ## Orderly
-Orderly spells usually have to do with some sort of imbuement, or maybe telekinesis. In the same vein as **Physical** magic, or complementary in a way.
+Orderly spells usually have to do with some sort of imbuement, or maybe telekinesis. In the same vein as **Physical** magic, or complementary to it in a way.
 
 <details><summary><b><ins>Gust</ins></b></summary>
 
@@ -160,21 +206,41 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Greater Gust</ins></b></summary>
+
+```
+Stats:
+- continuous cast
+- 20s cooldown
+- 3 initial arcana cost
+- no continous arcana drain
+- lasts 10s
+- epic
+
+Info:
+- While cast:
+  - Slowly pushes the caster back.
+  - Pushes all entities in a cone in front of the caster back a lot.
+  - Gives the caster a movement speed penalty.
+```
+</details>
+
 <details><summary><b><ins>Moonshot</ins></b></summary>
 
 ```
 Stats:
 - long cast
-- 0.2s cast time
+- 1s cast time
 - 20s cooldown
 - 2 arcana cost
-- rare
+- epic
 
 Info:
 - Cannot be cast without a target entity.
 - Adds a bunch of velocity to the entity the caster is targeting, sending them in the direction the caster is facing.
 - Makes the target entity able to be effected by kinetic damage (for 10s).
   - There's an effect in base ISS that does that. I forget what it is called.
+- Gives the caster a strong movement speed penalty while being cast.
 ```
 </details>
 
