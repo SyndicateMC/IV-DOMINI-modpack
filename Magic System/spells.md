@@ -21,6 +21,7 @@ Physical spells usually have to do with affecting a physical action of the playe
 
 <details><summary><b><ins>Stomp</ins></b></summary>
 
+*A basic spell that does good damage in melee range.*
 ```
 Stats:
 - long cast
@@ -37,6 +38,7 @@ Info:
 
 <details><summary><b><ins>Greater Stomp</ins></b></summary>
 
+*A basic spell that does great damage in melee range.*
 ```
 Stats:
 - long cast
@@ -53,6 +55,7 @@ Info:
 
 <details><summary><b><ins>Petrification</ins></b></summary>
 
+*A fairly complex spell that turns the caster into stone.*
 ```
 Stats:
 - instant cast
@@ -70,6 +73,7 @@ Info:
 
 <details><summary><b><ins>Slash</ins></b></summary>
 
+*A basic spell that imbues the caster's weapon with the **Physical** magics.*
 ```
 Stats:
 - instant cast
@@ -85,6 +89,7 @@ Info:
 
 <details><summary><b><ins>Greater Slash</ins></b></summary>
 
+*A decent spell that imbues the caster's weapon with a great amount of the **Physical** magics.*
 ```
 Stats:
 - long cast
@@ -99,24 +104,7 @@ Info:
 ```
 </details>
 
-<details><summary><b><ins>Quell</ins></b></summary>
-
-```
-Stats:
-- long cast
-- 20s cast time
-- 15min cooldown
-- 10 arcana cost
-- legendary
-
-Info:
-- Gives the caster a major movement speed penalty while cast.
-- When cast, executes the "kill_all_storms" command from Weather2.
-```
-</details>
-
-<details><summary><b><ins>Storm</ins></b></summary>
-
+*A complex spell used to accumulate strong winds.*
 ```
 Stats:
 - long cast
@@ -133,16 +121,17 @@ Info:
 
 <details><summary><b><ins>Greator Storm</ins></b></summary>
 
+*A very complex spell used to summon large twisters to demolish terrain.*
 ```
 Stats:
 - long cast
 - 30s cast time
 - 30min cooldown
 - 25 arcana cost
-- flawless
+- flawless!
 
 Info:
-- Gives the caster a major movement speed penalty while cast.
+- Gives the caster a major movement speed penalty while cast, and makes the caster incredibly vulnerable to damage.
 - When cast, executes the command to summon a "T0 Tornado" from Weather2 above the caster.
 - Funni.
 ```
@@ -153,6 +142,7 @@ Deathly spells usually have to do with direct damage or direct healing. Can also
 
 <details><summary><b><ins>Healing</ins></b></summary>
 
+*A basic spell used to heal you or a friend.*
 ```
 Stats:
 - long cast
@@ -168,8 +158,27 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Greater Healing</ins></b></summary>
+
+*A decent spell used to heal you or a friend, and provide additional healing over time.*
+```
+Stats:
+- long cast
+- 2.5s cast time
+- 25s cooldown
+- 5 arcana cost
+- epic
+
+Info:
+- Heals the caster for 8HP and applies Regeneration (I) for 15s.
+- If targeting an entity, heal the entity for 10HP and apply Regeneration (I) for 20s instead.
+- Gives off larger green particles when cast.
+```
+</details>
+
 <details><summary><b><ins>Hurting</ins></b></summary>
 
+*A basic spell that casts a bolt of hurting.*
 ```
 Stats:
 - instant cast
@@ -185,11 +194,30 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Greater Hurting</ins></b></summary>
+
+*A decent spell that casts a fast moving bolt of hurting.*
+```
+Stats:
+- instant cast
+- 7.5s cooldown
+- 3 arcana cost
+- rare
+
+Info:
+- Fires off a magic bolt that flies at a similar tragectory as an arrow, but way faster.
+- Deals 10DMG on contact with an entity.
+- Dissapates on contact with a surface or an entity.
+- Is affected by Guiding.
+```
+</details>
+
 ## Emotional
 Emotional spells usually have to do with support. Like applying a buff to a friend, and applying a negative effect to a foe.
 
 <details><summary><b><ins>Strengthen</ins></b></summary>
 
+*A basic spell used imbue a target with power.*
 ```
 Stats:
 - long cast
@@ -206,6 +234,7 @@ Info:
 
 <details><summary><b><ins>Snap</ins></b></summary>
 
+*A basic spell used to make a target more vulnerable to attacks.*
 ```
 Stats:
 - instant cast
@@ -222,6 +251,7 @@ Info:
 
 <details><summary><b><ins>Greater Snap</ins></b></summary>
 
+*A decent spell used to cripple a target in combat, making them weak.*
 ```
 Stats:
 - instant cast
@@ -232,7 +262,7 @@ Stats:
 Info:
 - Casts a hitscan shot that does no damage and has a 45 block range and is blocked by terrain and entities.
 - On hit with an entity:
-  - Apply Weakness (II), Slowness (I), Blindness, and Guiding to the entity for 15s.
+  - Apply Weakness (II), Slowness (I), Blindness, and Guiding to the entity for 20s.
 ```
 </details>
 
@@ -242,6 +272,7 @@ Orderly spells usually have to do with some sort of imbuement, or maybe telekine
 
 <details><summary><b><ins>Gust</ins></b></summary>
 
+*A basic spell used to launch you a short distance.*
 ```
 Stats:
 - instant cast
@@ -257,6 +288,7 @@ Info:
 
 <details><summary><b><ins>Greater Gust</ins></b></summary>
 
+*A complex spell used to push targets away.*
 ```
 Stats:
 - continuous cast
@@ -276,6 +308,7 @@ Info:
 
 <details><summary><b><ins>Moonshot</ins></b></summary>
 
+*A complex spell used to launch targets an absurd distance.*
 ```
 Stats:
 - long cast
@@ -293,9 +326,26 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Quell</ins></b></summary>
+
+*A nice spell used to calm storms.*
+```
+Stats:
+- long cast
+- 20s cast time
+- 15min cooldown
+- 10 arcana cost
+- epic
+
+Info:
+- Gives the caster a major movement speed penalty while cast.
+- When cast, executes the "kill_all_storms" command from Weather2.
+```
+</details>
 
 <details><summary><b><ins>Tether</ins></b></summary>
 
+*An absurdly complex spell used to tether you to a target, binding your body and soul to them.*
 ```
 Stats:
 - long cast
