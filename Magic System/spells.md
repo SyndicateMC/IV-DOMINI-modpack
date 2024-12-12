@@ -12,8 +12,8 @@ Additional notes:
   - **Common → Common**
   - **Uncommon → Rare**
   - **Rare → Epic**
-  - **Legendary → Epic**
-  - **Legendary → Flawless**
+  - **Epic → Legendary**
+  - **Legendary → Flawless!**
 - Again, no spell leveling.
 
 ## Physical
@@ -99,6 +99,55 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Quell</ins></b></summary>
+
+```
+Stats:
+- long cast
+- 20s cast time
+- 15min cooldown
+- 10 arcana cost
+- legendary
+
+Info:
+- Gives the caster a major movement speed penalty while cast.
+- When cast, executes the "kill_all_storms" command from Weather2.
+```
+</details>
+
+<details><summary><b><ins>Storm</ins></b></summary>
+
+```
+Stats:
+- long cast
+- 15s cast time
+- 10min cooldown
+- 8 arcana cost
+- legendary
+
+Info:
+- Gives the caster a major movement speed penalty while cast.
+- When cast, executes the command to summon "High Winds" from Weather2.
+```
+</details>
+
+<details><summary><b><ins>Greator Storm</ins></b></summary>
+
+```
+Stats:
+- long cast
+- 30s cast time
+- 30min cooldown
+- 25 arcana cost
+- flawless
+
+Info:
+- Gives the caster a major movement speed penalty while cast.
+- When cast, executes the command to summon a "T0 Tornado" from Weather2 above the caster.
+- Funni.
+```
+</details>
+
 ## Deathly
 Deathly spells usually have to do with direct damage or direct healing. Can also be associated with summoning things to fight for you.
 
@@ -124,7 +173,7 @@ Info:
 ```
 Stats:
 - instant cast
-- 30s cooldown
+- 5s cooldown
 - 1 arcana cost
 - common
 
