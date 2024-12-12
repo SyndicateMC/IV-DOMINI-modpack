@@ -104,6 +104,8 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Storm</ins></b></summary>
+
 *A complex spell used to accumulate strong winds.*
 ```
 Stats:
