@@ -121,7 +121,7 @@ Info:
 ```
 </details>
 
-<details><summary><b><ins>Greator Storm</ins></b></summary>
+<details><summary><b><ins>Greater Storm</ins></b></summary>
 
 *A very complex spell used to summon large twisters to demolish terrain.*
 ```
@@ -283,7 +283,7 @@ Stats:
 - common
 
 Info:
-- Adds velocity to the caster in the direction they are looking in.
+- Adds velocity to the caster in the direction they are looking at.
 - Pushes away any entities near the caster by a little bit.
 ```
 </details>
