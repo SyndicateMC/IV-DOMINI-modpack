@@ -82,7 +82,7 @@ Stats:
 - common
 
 Info:
-- Functions similarly to the Blood Slash spell from base ISS.
+- Functions similarly to the Flaming Strike spell from base ISS.
 - Does 4DMG + the damage attribute of the item you are currently holding.
 ```
 </details>
