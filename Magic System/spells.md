@@ -268,6 +268,24 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Inspiration</ins></b></summary>
+
+*Inspires nearby entities.*
+```
+Stats:
+- instant cast
+- 20s cooldown
+- 3 arcana cost
+- incremental
+- 5 charges
+- 10s downtime
+- epic
+
+Info:
+- Casts a hitscan shot that has a 30 block range and gives any entity that it hits the Inspiration effect.
+  - Inspiration gives a 20% speed bonus.
+```
+</details>
 
 ## Orderly
 Orderly spells usually have to do with some sort of imbuement, or maybe telekinesis. In the same vein as **Physical** magic, or complementary to it in a way.
@@ -293,18 +311,17 @@ Info:
 *A complex spell used to push targets away.*
 ```
 Stats:
-- continuous cast
+- instant cast
 - 20s cooldown
-- 3 initial arcana cost
-- no continous arcana drain
-- lasts 10s
+- 3 arcana cost
+- incremental
+- 5 charges
+- 7s downtime
 - epic
 
 Info:
-- While cast:
-  - Slowly pushes the caster back.
-  - Pushes all entities in a cone in front of the caster back a lot.
-  - Gives the caster a movement speed penalty.
+- Pushes the caster back a little bit when cast.
+- Pushes all entitis in a cone in front of the caster back a lot.
 ```
 </details>
 
