@@ -33,6 +33,7 @@ Stats:
 Info:
 - Functions similarly to the stomp spell in base ISS.
 - Does 8DMG.
+- Increasing spell effectiveness increases DMG.
 ```
 </details>
 
@@ -50,6 +51,7 @@ Stats:
 Info:
 - Functions similarly to the (lesser) Stomp spell, just with a greater cone of effect (hitbox).
 - Does 12DMG.
+- Increasing spell effectiveness increases DMG.
 ```
 </details>
 
@@ -68,6 +70,7 @@ Info:
 - Gives the caster the Petrified effect for 10s.
   - Entities with the Petrified effect are given increased gravity, an inability to move, and are immune to damage.
   - Any fall damage that would be taken while under the effect is applied to all entities in a 1.5 block radius around the affected entity.
+- Increasing spell effectiveness increases the amount of time Petrified.
 ```
 </details>
 
@@ -84,6 +87,7 @@ Stats:
 Info:
 - Functions similarly to the Flaming Strike spell from base ISS.
 - Does 4DMG + the damage attribute of the item you are currently holding.
+- Increasing spell effectiveness increases DMG.
 ```
 </details>
 
@@ -101,6 +105,7 @@ Stats:
 Info:
 - Is identical to the (lesser) Slash spell just with a greater area of effect (hitbox).
 - Does 6DMG + (1.5x) the damage attribute of the item you are currently holding.
+- Increasing spell effectiveness increases DMG.
 ```
 </details>
 
@@ -118,6 +123,7 @@ Stats:
 Info:
 - Gives the caster a major movement speed penalty while cast.
 - When cast, executes the command to summon "High Winds" from Weather2.
+- Increasing spell effectiveness does nothing.
 ```
 </details>
 
@@ -136,6 +142,7 @@ Info:
 - Gives the caster a major movement speed penalty while cast, and makes the caster incredibly vulnerable to damage.
 - When cast, executes the command to summon a "T0 Tornado" from Weather2 above the caster.
 - Funni.
+- Increasing spell effectiveness does nothing.
 ```
 </details>
 
@@ -157,6 +164,7 @@ Info:
 - Heals the caster for 6HP.
 - If targeting an entity, heal the entity for 8HP instead. 
 - Gives off little green particles when cast.
+- Increasing spell effectiveness increases amount of HP healed.
 ```
 </details>
 
@@ -175,6 +183,7 @@ Info:
 - Heals the caster for 8HP and applies Regeneration (I) for 15s.
 - If targeting an entity, heal the entity for 10HP and apply Regeneration (I) for 20s instead.
 - Gives off larger green particles when cast.
+- Increasing spell effectiveness increases amount of HP healed.
 ```
 </details>
 
@@ -193,6 +202,7 @@ Info:
 - Deals 6DMG on contact with an entity.
 - Dissapates on contact with a surface or an entity.
 - Is affected by Guiding.
+- Increasing spell effectiveness increases damage.
 ```
 </details>
 
@@ -211,6 +221,7 @@ Info:
 - Deals 10DMG on contact with an entity.
 - Dissapates on contact with a surface or an entity.
 - Is affected by Guiding.
+- Increasing spell effectiveness increases DMG.
 ```
 </details>
 
@@ -231,6 +242,7 @@ Stats:
 Info:
 - Gives the caster the Strength (I) effect for 20s.
 - If targeting an entity, give the entity the Strength (II) effect for 20s instead.
+- Increasing spell effectiveness increases effect time.
 ```
 </details>
 
@@ -248,6 +260,7 @@ Info:
 - Casts a hitscan shot that does no damage and has a 30 block range and is blocked by terrain and entities.
 - On hit with an entity:
   - Apply Weakness (I), Slowness (I), and Guiding to the entity for 15s.
+- Increasing spell effectiveness increases effect time.
 ```
 </details>
 
@@ -265,6 +278,7 @@ Info:
 - Casts a hitscan shot that does no damage and has a 45 block range and is blocked by terrain and entities.
 - On hit with an entity:
   - Apply Weakness (II), Slowness (I), Blindness, and Guiding to the entity for 20s.
+- Increasing spell effectiveness increases effect time.
 ```
 </details>
 
@@ -284,6 +298,7 @@ Stats:
 Info:
 - Casts a hitscan shot that has a 30 block range and gives any entity that it hits the Inspiration effect.
   - Inspiration gives a 20% speed bonus.
+- Increasing spell effectiveness increases effect time.
 ```
 </details>
 
@@ -303,6 +318,7 @@ Stats:
 Info:
 - Adds velocity to the caster in the direction they are looking at.
 - Pushes away any entities near the caster by a little bit.
+- Increasing spell effectiveness increases velocity.
 ```
 </details>
 
@@ -321,7 +337,8 @@ Stats:
 
 Info:
 - Pushes the caster back a little bit when cast.
-- Pushes all entitis in a cone in front of the caster back a lot.
+- Pushes all entities in a cone in front of the caster back a lot.
+- Increasing spell effectiveness increases push force.
 ```
 </details>
 
@@ -342,6 +359,7 @@ Info:
 - Makes the target entity able to be effected by kinetic damage (for 10s).
   - There's an effect in base ISS that does that. I forget what it is called.
 - Gives the caster a strong movement speed penalty while being cast.
+- Increasing spell effectiveness increases velocity.
 ```
 </details>
 
@@ -359,6 +377,7 @@ Stats:
 Info:
 - Gives the caster a major movement speed penalty while cast.
 - When cast, executes the "kill_all_storms" command from Weather2.
+- Increasing spell effectiveness does nothing.
 ```
 </details>
 
@@ -369,14 +388,15 @@ Info:
 Stats:
 - long cast
 - 2s cast time
-- 1m cooldown
+- 2m cooldown
 - 8 arcana cost
 - legendary
 
 Info:
 - Cannot be cast without a target entity.
-- Gives the caster and the target the effect "Tethered".
+- Gives the caster and the target the effect "Tethered" for 1m.
   - Tethered entities will share any damage they recieve, divided by the amount of tethered entities.
     - X = A / B; where A is the initial damage that would be applied to an entity with the Tethered effect, B is the amount of entities with the Tethered effect, and X is the damage all entities with the Tethered effect would recieve.
+- Increasing spell effectiveness increases effect time.
 ```
 </details>
