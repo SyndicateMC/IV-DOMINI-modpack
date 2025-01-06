@@ -225,6 +225,27 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Heal Pylon</ins></b></summary>
+
+*A more complex spell used to make a target into a healing field.*
+```
+Stats:
+- long cast
+- 15s cast time
+- 1hr cooldown
+- 10 arcana cost
+- epic
+
+Info:
+- Cannot be cast without a target entity.
+  - Cannot target another player.
+- When cast, apply the Healing Pylon effect to the target for 1hr.
+  - Healing Pylon makes the affected entity  
+- Gives off little green particles when cast.
+- Increasing spell effectiveness increases amount of HP healed.
+```
+</details>
+
 ## Emotional
 Emotional spells usually have to do with support. Like applying a buff to a friend, and applying a negative effect to a foe.
 
@@ -378,6 +399,22 @@ Info:
 - Gives the caster a major movement speed penalty while cast.
 - When cast, executes the "kill_all_storms" command from Weather2.
 - Increasing spell effectiveness does nothing.
+```
+</details>
+
+<details><summary><b><ins>Homebringer</ins></b></summary>
+
+*A nice spell used to calm storms.*
+```
+Stats:
+- instant cast
+- 15s cooldown
+- 3 arcana cost
+- epic
+
+Info:
+- Casts a hitscan shot that has a 30 block range and makes any entity that it hits teleport to the caster.
+- Increasing spell effectiveness increases range.
 ```
 </details>
 
