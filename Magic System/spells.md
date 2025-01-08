@@ -109,43 +109,6 @@ Info:
 ```
 </details>
 
-<details><summary><b><ins>Storm</ins></b></summary>
-
-*A complex spell used to accumulate strong winds.*
-```
-Stats:
-- long cast
-- 15s cast time
-- 10min cooldown
-- 8 arcana cost
-- legendary
-
-Info:
-- Gives the caster a major movement speed penalty while cast.
-- When cast, executes the command to summon "High Winds" from Weather2.
-- Increasing spell effectiveness does nothing.
-```
-</details>
-
-<details><summary><b><ins>Greater Storm</ins></b></summary>
-
-*A very complex spell used to summon large twisters to demolish terrain.*
-```
-Stats:
-- long cast
-- 30s cast time
-- 30min cooldown
-- 25 arcana cost
-- flawless!
-
-Info:
-- Gives the caster a major movement speed penalty while cast, and makes the caster incredibly vulnerable to damage.
-- When cast, executes the command to summon a "T0 Tornado" from Weather2 above the caster.
-- Funni.
-- Increasing spell effectiveness does nothing.
-```
-</details>
-
 ## Deathly
 Deathly spells usually have to do with direct damage or direct healing. Can also be associated with summoning things to fight for you.
 
@@ -383,27 +346,9 @@ Info:
 ```
 </details>
 
-<details><summary><b><ins>Quell</ins></b></summary>
-
-*A nice spell used to calm storms.*
-```
-Stats:
-- long cast
-- 20s cast time
-- 15min cooldown
-- 10 arcana cost
-- epic
-
-Info:
-- Gives the caster a major movement speed penalty while cast.
-- When cast, executes the "kill_all_storms" command from Weather2.
-- Increasing spell effectiveness does nothing.
-```
-</details>
-
 <details><summary><b><ins>Homebringer</ins></b></summary>
 
-*A nice spell used to calm storms.*
+*A neat little spell to teleport a target to you.*
 ```
 Stats:
 - instant cast
