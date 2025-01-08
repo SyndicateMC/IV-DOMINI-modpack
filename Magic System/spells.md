@@ -240,9 +240,8 @@ Info:
 - Cannot be cast without a target entity.
   - Cannot target another player.
 - When cast, apply the Healing Pylon effect to the target for 1hr.
-  - Healing Pylon makes the affected entity  
-- Gives off little green particles when cast.
-- Increasing spell effectiveness increases amount of HP healed.
+  - Healing Pylon makes the affected entity heal all nearby targets for 2HP every second.
+- Increasing spell effectiveness increases effect time.
 ```
 </details>
 
