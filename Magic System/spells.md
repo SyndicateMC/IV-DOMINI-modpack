@@ -339,8 +339,7 @@ Stats:
 Info:
 - Cannot be cast without a target entity.
 - Adds a bunch of velocity to the entity the caster is targeting, sending them in the direction the caster is facing.
-- Makes the target entity able to be effected by kinetic damage (for 10s).
-  - There's an effect in base ISS that does that. I forget what it is called.
+- Target entity is made Airborne for 10s.
 - Gives the caster a strong movement speed penalty while being cast.
 - Increasing spell effectiveness increases velocity.
 ```
