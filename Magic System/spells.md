@@ -1,6 +1,8 @@
 # Spells for the Modpack
 This file just contains ideas for spells that I want to add to the modpack. They will be catagorized based on the school they are a part of. I will give the gist of the themes of the spells, I may not follow them super closely just so there is more variety of spells.
 
+Spells will be obtained via rituals on the Altar block.
+
 Terms to note:
 - DMG: normal damage.
 - M-DMG: magic damage, pierces armor.
