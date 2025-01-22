@@ -17,15 +17,24 @@ Spells will be obtained through rituals.
 ## Prayer
 Prayer would consist of interacting with and then crouching or sitting by a statue.
 
-There would be a statue for each god. Statues are made by placing two hardened stone types in a pillar, and then interacting with them with a chisel in the mainhand, and a gem (corresponding to the god you are making the statue of) in the offhand.
+There would be a statue for each god. Statues are made by interacting with a block of pillarstone with a chisel in the mainhand, and a gem (corresponding to the god you are making the statue of) in the offhand.
 
 Then, by interacting with a statue, you would then start a timer of 60s. By sitting or crouching near the statue, the timer will deplete. When the timer reaches 0, your *Arcana* will be fully replenished and you will recieve a blessing corresponding to the god you prayed to. Cooldown between prayers is 10min.
 
 Consistently praying to a certain god without praying to another will garner favor. Blessing level will increase with favor.
 
 ## Rituals
-Rituals are preformed at altars.
+Rituals are preformed at altars. Altars are made by chiselling a pillar.
 
-By throwing certain materials on an altar, and then interacting with it, you can preform a ritual. 
+By throwing certain materials on an altar, and socketing a gem, you can preform a ritual. 
 
 Spells are obtained through rituals. You would first need to craft a few Blank Slates, these are made by putting three stone (types) and a chisle in a crafting interface. You would then put the slate on the altar, and with the addition of other items the altar would imbue the slate with magic, giving you a Spell Rune.
+
+Altars can also preform other events, such as advancing time or summoning/quelling storms. Altars are also used in obtaining Stone Effigies, an item that is used in the creation of Stone Golems.
+
+## Infusion
+Infusions are preformed at infusion tables. Infusion tables are made by interacting with an altar that is atop a chiseled pillarstone with a blank slate.
+
+Infusions are how you obtain enchantments in **IV DOMINI**. By throwing a blank slate and some various items, and then socketing a gemstone in the bottom pillarstone, you would obtain an *Enchantment Rune*. Enchantment runes can then be crafted with a compatible tool or weapon to enchant said tool or weapon.
+
+Only one enchantment can be on an item at a time.
