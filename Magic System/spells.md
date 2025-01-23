@@ -7,7 +7,7 @@ Terms to note:
 - DMG: normal damage.
 - M-DMG: magic damage, pierces armor.
 - HP: health, health points.
-- ISS: no, not International Space Station; Iron's Spells & Spellbooks
+- ISS: no, not International Space Station; Iron's Spells & Spellbooks.
 
 Additional notes:
 - The spell rarity system has been changed:
