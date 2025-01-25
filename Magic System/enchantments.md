@@ -17,7 +17,7 @@ Additional notes:
 *A basic enchantment that increases the damage of a weapon.*
 ```
 Stats:
-- +20% attack damage
+- +25% attack damage
 - physical
 - applied to weapons
 
@@ -44,3 +44,33 @@ Info:
   - Does not teleport back when hitting a mob, only when impacting a block.
 ```
 </details>
+
+<details><summary><b><ins>Nimble</ins></b></summary>
+
+*A basic enchantment that increases the mining speed of a tool.*
+```
+Stats:
+- +25% mining speed
+- orderly
+- applied to tool
+
+Info:
+- This modpack's version of efficiency.
+```
+</details>
+
+<details><summary><b><ins>Siphon</ins></b></summary>
+
+*A neat enchantment that causes the lifeforce from enemies to be imbued into the user.*
+```
+Stats:
+- +20% life steal
+- -10% attack damage
+- deathly
+- applied to weapon
+
+Info:
+- N/A
+```
+</details>
+
