@@ -74,3 +74,58 @@ Info:
 ```
 </details>
 
+<details><summary><b><ins>Haste</ins></b></summary>
+
+*A neat enchantment that increases general movement speed.*
+```
+Stats:
+- +15% movement speed
+- orderly
+- applied to leggings
+
+Info:
+- N/A
+```
+</details>
+
+<details><summary><b><ins>Tempo</ins></b></summary>
+
+*A neat enchantment that specifically increases sprinting movement speed.*
+```
+Stats:
+- +30% sprint speed
+- orderly
+- applied to leggings
+
+Info:
+- N/A
+```
+</details>
+
+<details><summary><b><ins>Swift</ins></b></summary>
+
+*A neat enchantment that specifically increases sprinting movement speed.*
+```
+Stats:
+- +30% attack speed
+- orderly
+- applied to weapons
+
+Info:
+- N/A
+```
+</details>
+
+<details><summary><b><ins>Armament</ins></b></summary>
+
+*A niche enchantment that causes the player to make shockwaves when they fall.*
+```
+Stats:
+- +30% gravity
+- physical
+- applied to maces
+
+Info:
+- While holding the weapon, falling from great distances causes large shockwaves.
+```
+</details>
