@@ -13,7 +13,7 @@ Additional notes:
 
 ## List
 <details><summary><b><ins>Wrath</ins></b></summary>
-- [ ] <ins>Implemented?</ins>
+- [X] <ins>Implemented?</ins>
 
 *A basic enchantment that increases the damage of a weapon.*
 ```
