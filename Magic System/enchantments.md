@@ -40,8 +40,7 @@ Stats:
 Info:
 - This modpack's version of loyalty.
   - A workaround to the fact that loyalty doesn't work on javelins.
-- Javelins, when impacting with a block, will teleport back to the thrower's inventory.
-  - Does not teleport back when hitting a mob, only when impacting a block.
+- Javelins, on impact, will teleport back to the thrower's inventory.
 ```
 </details>
 
@@ -104,7 +103,7 @@ Info:
 
 <details><summary><b><ins>Swift</ins></b></summary>
 
-*A neat enchantment that specifically increases sprinting movement speed.*
+*An enchantment that increases attack speed.*
 ```
 Stats:
 - +30% attack speed
@@ -121,11 +120,13 @@ Info:
 *A niche enchantment that causes the player to make shockwaves when they fall.*
 ```
 Stats:
-- +30% gravity
+- +50% gravity
+- -30% movement speed
+- +30% fall damage resistance
 - physical
 - applied to maces
 
 Info:
-- While holding the weapon, falling from great distances causes large shockwaves.
+- While holding the weapon, falling from great distances causes large shockwaves that deal damage to entities near the player.
 ```
 </details>
