@@ -13,6 +13,7 @@ Additional notes:
 
 ## List
 <details><summary><b><ins>Wrath</ins></b></summary>
+- [ ] <ins>Implemented?</ins>
 
 *A basic enchantment that increases the damage of a weapon.*
 ```
@@ -29,6 +30,7 @@ Info:
 </details>
 
 <details><summary><b><ins>Allegiance</ins></b></summary>
+- [ ] <ins>Implemented?</ins>
 
 *A decent enchantment that causes a javelin to return to the thrower.*
 ```
@@ -45,6 +47,7 @@ Info:
 </details>
 
 <details><summary><b><ins>Nimble</ins></b></summary>
+- [ ] <ins>Implemented?</ins>
 
 *A basic enchantment that increases the mining speed of a tool.*
 ```
@@ -59,6 +62,7 @@ Info:
 </details>
 
 <details><summary><b><ins>Siphon</ins></b></summary>
+- [ ] <ins>Implemented?</ins>
 
 *A neat enchantment that causes the lifeforce from enemies to be imbued into the user.*
 ```
@@ -74,6 +78,7 @@ Info:
 </details>
 
 <details><summary><b><ins>Haste</ins></b></summary>
+- [ ] <ins>Implemented?</ins>
 
 *A neat enchantment that increases general movement speed.*
 ```
@@ -88,6 +93,7 @@ Info:
 </details>
 
 <details><summary><b><ins>Tempo</ins></b></summary>
+- [ ] <ins>Implemented?</ins>
 
 *A neat enchantment that specifically increases sprinting movement speed.*
 ```
@@ -102,6 +108,7 @@ Info:
 </details>
 
 <details><summary><b><ins>Swift</ins></b></summary>
+- [ ] <ins>Implemented?</ins>
 
 *An enchantment that increases attack speed.*
 ```
@@ -116,7 +123,7 @@ Info:
 </details>
 
 <details><summary><b><ins>Armament</ins></b></summary>
-[ ] Implemented?
+- [ ] <ins>Implemented?</ins>
 
 *A niche enchantment that causes the player to make shockwaves when they fall.*
 ```
