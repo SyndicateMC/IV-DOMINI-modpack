@@ -116,17 +116,21 @@ Info:
 </details>
 
 <details><summary><b><ins>Armament</ins></b></summary>
+[ ] Implemented?
 
 *A niche enchantment that causes the player to make shockwaves when they fall.*
 ```
 Stats:
-- +50% gravity
-- -30% movement speed
-- +30% fall damage resistance
+- While active:
+  - +50% gravity
+  - -30% movement speed
+  - +30% fall damage resistance
 - physical
 - applied to maces
 
 Info:
 - While holding the weapon, falling from great distances causes large shockwaves that deal damage to entities near the player.
+- Reference to the "Armament Anchor" from TF2C (guys totally terrafirma 2 craft!!!1!1!!!).
 ```
 </details>
+
