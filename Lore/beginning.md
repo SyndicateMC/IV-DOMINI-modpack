@@ -28,7 +28,7 @@ Now; within this something, the world was made.
 
 **Kuolev** then breathed life into the vessels. He created the first animals, plants, and humans from them.
 
-**T'unn** took these now living beings, and gave them a mind. These beings then began to roamed. They dispersed themselves everywhere, roaming without interest or purpose.
+**T'unn** took these now living beings, and gave them a mind. These beings then began to roam. They dispersed themselves everywhere, roaming without interest or purpose.
 
 But **Y'hita**, she gave them a reason. She gave them their purpose, *the* purpose. Plants would grow, and spread, and die, and grow again. Animals would eat these plants, and grow, and spread, and be eaten, and die.
 
