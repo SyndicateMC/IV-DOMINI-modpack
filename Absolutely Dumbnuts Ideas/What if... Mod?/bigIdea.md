@@ -18,5 +18,6 @@ Gaining favor:
 - **Kuolev:** killing entities, healing entities, summoning entities, breeding entities, using _Deathly_ enchantments. Praying, rituals.
 - **T'unn:** trading/bartering with entities, dropping items to other players, using _Emotional_ enchantments. Praying, rituals.
 - **Y'hita:** earning experience, crafting, placing blocks, using _Orderly_ enchantments. Praying, rituals.
+
 This is not final.
 
